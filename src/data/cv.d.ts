@@ -1,7 +1,6 @@
 export interface CV {
   readonly basics?: Basics;
   readonly work?: Work[]
-  readonly volunteer?: Volunteer[];
   readonly education?: Education[];
   readonly awards?: Awards[];
   readonly certificates?: Certificates[];
@@ -48,16 +47,6 @@ interface Work {
   endDate?: DateStr;
   summary: string;
   highlights: Highlights;
-}
-
-interface Volunteer {
-  organization: string;
-  position: string;
-  url?: string;
-  startDate: DateStr;
-  endDate?: DateStr;
-  summary?: string;
-  highlights?: Highlights;
 }
 
 interface Education {

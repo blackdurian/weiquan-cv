@@ -1,83 +1,100 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Wei Quan Lo",
     "label": "Software Engineer",
-    "email": "johndoe@example.com",
-    "phone": "+1 234 567 890",
-    "url": "https://johndoe.dev",
-    "image": "/profile.jpg",
-    "summary": "Passionate developer with 5+ years of experience in building web applications.",
+    "email": "loweiquan@gmail.com",
+    "phone": "+60127752663",
+    "url": "blackdurian.github.io/weiquan-resume/",
+    "image": "/profile.png",
+    "summary": "Full Stack Engineer proficient in Java, JavaScript, Golang, and microservices architecture. Experienced in cloud security, workflow optimization, and mentoring junior engineers to drive technical excellence. Skilled in configuring Atlassian products such as Jira, Confluence, and Bitbucket, and leveraging DevOps practices and CI/CD pipelines to deliver scalable, high-performing solutions.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Palo Alto",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Kuala Lumpur",
+      "countryCode": "MY",
+      "region": "Malaysia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "johndoe",
-        "url": "https://linkedin.com/in/johndoe"
+        "username": "weiquanlo",
+        "url": "https://linkedin.com/in/weiquanlo"
       },
       {
         "network": "GitHub",
-        "username": "jsonresume",
-        "url": "https://github.com/jsonresume"
+        "username": "weiquanlo",
+        "url": "https://github.com/blackdurian"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Company",
-      "position": "Senior Developer",
-      "url": "https://techcompany.com",
-      "startDate": "2020-06-01",
-      "summary": "Developing full-stack applications using JavaScript, React, and Node.js."
+      "name": "Simplr Logic Sdn Bhd",
+      "position": "Senior Software Engineer",
+      "url": "https://www.simplr.com.my/",
+      "startDate": "2020-03",
+      "summary": "Contributed to key projects for Grab and AmBank, specializing in software development, cloud security, and agile practices."
     },
     {
-      "name": "Web Agency",
-      "position": "Frontend Developer",
-      "url": "https://webagency.com",
-      "startDate": "2018-01-01",
-      "endDate": "2020-05-01",
-      "summary": "Worked on various client projects, focusing on responsive design and performance optimization."
+      "name": "CrimsonLogic Pte Ltd",
+      "position": "Software Engineer Intern",
+      "url": "https://www.crimsonlogic.com/",
+      "startDate": "2020-12",
+      "endDate": "2021-04",
+      "summary": "Worked on the Coherence Data Exchange Platform (DXP) product team, focusing on data sharing and user subscriptions."
     },
     {
-      "name": "Startup Inc.",
+      "name": "Yonyou (Malaysia) Sdn Bhd",
       "position": "Intern",
-      "url": "https://startupinc.com",
-      "startDate": "2017-06-01",
-      "endDate": "2017-12-01",
-      "summary": "Assisted in the development of a web application for internal use."
-    }
-  ],
-  "volunteer": [
+      "url": "https://yonyou.com.my/",
+      "startDate": "2019-12",
+      "endDate": "2020-02",
+      "summary": "Assisted in implementation of a ERP system."
+    },
     {
-      "organization": "Open Source Initiative",
-      "position": "Contributor",
-      "url": "https://opensource.org",
-      "startDate": "2021-01-01",
-      "summary": "Contributing to open-source projects and helping maintain documentation."
+      "name": "Diebold Nixdorf",
+      "position": "Quality Assurance Intern",
+      "url": "https://www.dieboldnixdorf.com/",
+      "startDate": "2019-09",
+      "endDate": "2019-12",
+      "summary": "Developed and verified test cases for ATM machines, including designing and executing test scripts to ensure compliance with project requirements"
     }
   ],
   "education": [
     {
-      "institution": "University of Tech",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2016-09-01",
-      "endDate": "2020-06-01",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+  "institution": "Asia Pacific University",
+      "url": "https://www.apu.edu.my",
+      "area": "Software Engineering",
+      "studyType": "Bachelors Software Engineering",
+      "startDate": "2019-06-13",
+      "endDate": "2022-01-22"
     }
   ],
   "skills": [
     {
-      "name": "Astro",
+      "name": "Java",
       "level": "Proficient",
-      "keywords": ["Frontend", "Static Site Generation"]
+      "keywords": ["Java EE", "Spring Boot","Oauth2","Hibernate"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Proficient",
+      "keywords": ["ES6", "Async/Await","Jquery","Node.js"]
+    },
+      {
+      "name": "Golang",
+      "level": "Advanced",
+      "keywords": ["Microservices", "gRPC"]
+    },
+    {
+      "name": "React",
+      "level": "Proficient",
+      "keywords": ["React Hooks", "Redux", "React Router"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Proficient",
+      "keywords": ["Database Design", "ORM"]
     },
     {
       "name": "HTML",
@@ -90,18 +107,8 @@
       "keywords": ["Frontend", "Responsive Design"]
     },
     {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": ["ES6", "Async/Await"]
-    },
-    {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Expert",
       "keywords": ["Version Control", "Collaboration"]
     },
     {
@@ -110,14 +117,44 @@
       "keywords": ["Backend", "API Development"]
     },
     {
-      "name": "Frontend",
+      "name": "Python",
       "level": "Intermediate",
-      "keywords": ["React", "Svelte", "tailwind"]
+      "keywords": ["Scripting", "Automation"]
     },
     {
-      "name": "TypeScript",
+      "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["JavaScript", "Static Typing"]
+      "keywords": ["Containerization", "DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": ["Container Orchestration", "DevOps"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["CI/CD", "Automation"]
+    },
+    {
+      "name": "Open Shift Platform",
+      "level": "Intermediate",
+      "keywords": ["DevOps", "Containerization", "CI/CD", "Red Hat"]
+    },
+    {
+      "name": "Atlassian Suite",
+      "level": "Expert",
+      "keywords": ["Jira", "Confluence", "Bitbucket"]
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "Expert",
+      "keywords": ["Scrum", "Kanban"]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": ["Cloud Services", "Infrastructure"]
     }
   ],
   "languages": [
@@ -128,18 +165,50 @@
   ],
   "projects": [
     {
-      "name": "Portfolio Website",
-      "description": "A personal website showcasing my work and skills.",
+      "name": "Cloud VM Automation in Grab Malaysia",
+      "description": "Worked as a cloud security engineer to manage cloud instance vulnerabilities and classify CVEs for release approval.",
       "isActive": true,
       "highlights": [
-        "Built with love using the Astrolio template",
-        "Responsive design using Astro, Typescript, and Ninja Keys",
-        "Integrated with GitHub API to display projects",
-        "Employed the JSON Resume format for easy updates"
+        "Build and maintained Automation Jobs",
+        "Automated workflows and maintained pipelines for auto-creating Jira tickets.",
+        "Visualized data for feature analysis and consolidated large data into a centralized data lake."
+      ]
+    },
+    {
+      "name": "Jira Migration in Grab Malaysia",
+      "description": "Migrated Jira on-premise to Jira Cloud, developed custom Forge App plugins, and configured Jira access.",
+      "isActive": false,
+      "highlights": [
+        "Successfully led the migration of the Jira project and delivered it on time.",
+        "Developed custom Forge App plugins to optimize workflows and enhance data visibility.",
+        "Resolved defects with Atlassian Support",
+        "Configured Jira access and prepared data for migration."
+      ]
+    },
+        {
+      "name": "Digital Lending in AmBank Malaysia",
+      "description": "Developed a lending application for AmBank from Sprint 0, integrating external services and aligning goals with business objectives.",
+      "isActive": false,
+      "highlights": [
+        "Designed modules for the internet banking system, integrated EAI services.",
+        "Managed CI/CD pipelines using Openshift Platform and Jenkins.",
+        "Collaborated on agile Scrum teams, ensuring timely delivery of features.",
+        "Code Reviewed and mentored junior engineers to enhance code quality."
       ],
-      "github": "https://github.com/jsonresume",
-      "url": "https://jsonresume.org"
+      "url": "https://biz.amaccess.com.my/"
+    },
+        {
+      "name": "Others Projects in AmBank Malaysia",
+      "description": "Developed various projects for AmBank SME Business portal",
+      "isActive": false,
+      "highlights": [
+        "Removed SMS OTP for system authentication.",
+        "Impremented DuitNow with RPP2 feature for online banking.",
+        "Implemented eKYC for business account opening.",
+        "Credit Card masking",
+        "Payroll module for amaccess"
+      ],
+      "url": "https://biz.amaccess.com.my/"
     }
   ]
 }
-  
